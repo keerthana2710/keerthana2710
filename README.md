@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keerthana samiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthanasamiraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keerthana-samyraj-b72963206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthanasamiraj" height="30" width="40" /></a>
 <a href="https://instagram.com/dreamiee_girl_keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamiee_girl_keerthi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithkeerthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithkeerthu" height="30" width="40" /></a>
+<a href="https://youtube.com/@codewithkeerthu?si=53liq_Z2BMy6nr5c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithkeerthu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
